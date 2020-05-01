@@ -1,0 +1,39 @@
+{
+   "collections":[
+      {
+         "zh":"每日尖货",
+         "en":"Best Deal",
+         "tag":"bestDeal"
+      },
+      {
+         "zh":"热销商品",
+         "en":"Hot Items",
+         "tag":"hotItem"
+      },
+      {
+         "zh":"肉类",
+         "en":"Meat",
+         "tag":"meat"
+      },
+      {
+         "zh":"肉类",
+         "en":"Meat",
+         "tag":"meat"
+      },
+      {
+         "zh":"蔬菜类",
+         "en":"Vegetable",
+         "tag":"vegetable"
+      },
+      {
+         "zh":"水果类",
+         "en":"Fruit",
+         "tag":"fruit"
+      },
+      {
+         "zh":"颐东点心",
+         "en":"Instant Food",
+         "tag":"instantFood"
+      }
+   ]
+}
