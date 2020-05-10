@@ -1,14 +1,19 @@
 {
-   "collections":[
+   "collections":[ 
       {
          "zh":"每日尖货",
          "en":"Best Deal",
          "tag":"bestDeal"
       },
       {
-         "zh":"海鲜类",
-         "en":"Seafood",
-         "tag":"seafood"
+         "zh":"颐东点心",
+         "en":"Instant Food",
+         "tag":"instantFood"
+      }, 
+      {
+         "zh":"水果类",
+         "en":"Fruit",
+         "tag":"fruit"
       },
       {
          "zh":"肉类",
@@ -21,14 +26,9 @@
          "tag":"vegetable"
       },
       {
-         "zh":"水果类",
-         "en":"Fruit",
-         "tag":"fruit"
-      },
-      {
-         "zh":"颐东点心",
-         "en":"Instant Food",
-         "tag":"instantFood"
+         "zh":"海鲜类",
+         "en":"Seafood",
+         "tag":"seafood"
       }
    ]
 }
