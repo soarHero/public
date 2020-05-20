@@ -6,19 +6,19 @@
          "tag":"bestDeal"
       },
       {
-         "zh":"颐东点心",
+         "zh":"合作商家",
          "en":"Instant Food",
          "tag":"instantFood"
       }, 
       {
-         "zh":"水果类",
-         "en":"Fruit",
-         "tag":"fruit"
-      },
-      {
          "zh":"肉类",
          "en":"Meat",
          "tag":"meat"
+      },
+      {
+         "zh":"水果类",
+         "en":"Fruit",
+         "tag":"fruit"
       },
       {
          "zh":"蔬菜类",
