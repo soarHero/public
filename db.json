@@ -29,6 +29,11 @@
          "zh":"海鲜类",
          "en":"Seafood",
          "tag":"seafood"
+      },
+      {
+         "zh":"杂货",
+         "en":"Grocery",
+         "tag":"grocery"
       }
    ]
 }
