@@ -6,9 +6,14 @@
          "tag":"bestDeal"
       },
       {
-         "zh":"合作商家",
-         "en":"Instant Food",
-         "tag":"instantFood"
+         "zh":"颐东点心",
+         "en":"Yidong Food",
+         "tag":"yidong"
+      },
+      {
+         "zh":"胡同烤鸭",
+         "en":"Hutong Duck",
+         "tag":"hutong"
       }, 
       {
          "zh":"肉类",
