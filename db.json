@@ -26,6 +26,11 @@
          "tag":"fruit"
       },
       {
+         "zh":"乳制品",
+         "en":"Dairy",
+         "tag":"dairy"
+      },
+      {
          "zh":"蔬菜类",
          "en":"Vegetable",
          "tag":"vegetable"
