@@ -31,6 +31,11 @@
          "tag":"dairy"
       },
       {
+         "zh": "酒水饮料",
+         "en": "Drinks",
+         "tag": "drinks"
+      },
+      {
          "zh":"蔬菜类",
          "en":"Vegetable",
          "tag":"vegetable"
